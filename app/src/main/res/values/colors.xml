@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="menu">#00bfff</color>
+    <color name="map">#5aeca3</color>
+    <color name="trigger">#ff4500</color>
+    <color name="alarm">#ffcb22</color>
+    <color name="appcolor">#e84d3e</color>
+    <color name="background">#fafafa</color>
+    <color name="bl">#000000</color>
+</resources>
